@@ -1,9 +1,7 @@
-<div align="center">
-  <img style="width:50%" src="https://github.com/Lucas-zz/Midjourney/blob/main/src/assets/openai-logo.png" alt="OpenAI logo" />
-</div>
+
 
 <h1 align="center">
-  <a href="#"> Midjourney - DALL • E 2 Clone </a>
+  <a href="#"> DALL • E 2 Clone </a>
 </h1>
 
 <h3 align="center">

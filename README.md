@@ -37,7 +37,7 @@
 <p>With the boom of <a href="https://openai.com/about/">OpenAI</a>'s <a href="https://openai.com/blog/chatgpt/">ChatGPT</a> and <a href="https://openai.com/dall-e-2/">DALL • E 2</a> I got really curious about this technology so new and yet so great at the same time, so I ended up trying to make a really simple clone of <a href="https://midjourney.com/showcase/recent/">Midjourney</a>!
 <p>OpenAI's <a href="https://platform.openai.com/docs/guides/images/introduction">image generation API</a> were used on this project.
 
-<h3>This project's backend is available <a href="https://github.com/Lucas-zz/Midjourney-backend">here</a>.</h3>
+
 
 ---
 
